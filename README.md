@@ -18,5 +18,5 @@ Foram utilizadas as seguintes ferramentas:
 
 Link para testar o jogo:
 
-- [PONG SP](https://editor.p5js.org/slpzi/sketches/LcEiZxJWG)
-- [PONG MP](https://editor.p5js.org/slpzi/sketches/CjKr_7l9G)
+- [PONG SP](https://editor.p5js.org/hwkw/sketches/LcEiZxJWG)
+- [PONG MP](https://editor.p5js.org/hwkw/sketches/CjKr_7l9G)
